@@ -1,0 +1,6 @@
+{
+    "Game1": "Craft Hat Bot",
+    "Game2": 440,
+    "__Game1__": "Name of game can be anything",
+    "__Game2__": "is the game id number 440 = tf2, numbers do not need quotes"  
+}

@@ -1,0 +1,15 @@
+{
+"Spy (Profile Background)": {
+"buy": 1,
+"sell": 2,
+"instock": 0,
+"stocklimit": 100
+},
+"Camo":{
+"buy": 1,
+"sell": 2,
+"instock": 0,
+"stocklimit": 100
+}
+
+}

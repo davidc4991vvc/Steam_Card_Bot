@@ -1,0 +1,266 @@
+{
+    "SCOUT (Trading Card)": {
+    "buy": 2,
+    "stocklimit": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "HEAVY (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "MEDIC (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SNIPER (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "PYRO (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SOLDIER (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "DEMOMAN (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "ENGINEER (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SPY (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SCOUT (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "HEAVY (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "MEDIC (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SNIPER (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "PYRO (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SOLDIER (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "DEMOMAN (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "ENGINEER (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SPY (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Bounty Hunter": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Vengeful Spirit": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Tidehunter (Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Razor": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Riki": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Tiny": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Tusk": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Phantom Lancer": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Bounty Hunter (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Vengeful Spirit (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Tidehunter (Foil Trading Card)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Razor (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Riki (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Tiny (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Tusk (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Phantom Lancer (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Anarchist (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "FBI (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Balkan (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "IDF (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SWAT (Foil)": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "SWAT": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "IDF": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Balkan": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "FBI": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  },
+  "Anarchist": {
+    "buy": 2,
+    "sell": 3,
+"instock": 0,
+"stocklimit": 100
+  }
+}

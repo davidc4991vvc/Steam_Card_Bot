@@ -1,0 +1,2465 @@
+{
+  "Scrap Metal": {
+    "buy": 1,
+    "sell": 1,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Reclaimed Metal": {
+    "buy": 3,
+    "sell": 3,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Refined Metal": {
+    "buy": 9,
+    "sell": 9,
+    "instock": 3,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Short Circuit": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Kritzkrieg": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Red-Tape Recorder": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Bootlegger": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Concheror": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Family Business": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Direct Hit": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Quickiebomb Launcher ": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Amputator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Amputator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Air Strike": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Air Strike": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Ali Baba's Wee Booties": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Ali Baba's Wee Booties": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Apoco-Fists": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Atomizer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Atomizer": {
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Axtinguisher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Axtinguisher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The B.A.S.E. Jumper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable B.A.S.E. Jumper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Baby Face's Blaster": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Baby Face's Blaster": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Back Scatter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-CraftableBack Scatter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Back Scratcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Back Scratcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Backburner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Backburner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Bat Outta Hell": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bat Outta Hell": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Batsaber": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Batsaber": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Battalion's Backup": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Battalion's Backup": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Bazaar Bargain": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bazaar Bargain": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Beggar's Bazooka": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Beggar's Bazooka": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Big Earner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Big Earner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Black Rose": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Black Rose": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Black Box": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Black Box": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Bonesaw": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bonesaw": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Bonk! Atomic Punch": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bonk! Atomic Punch": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Boston Basher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Boston Basher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Bottle": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bottle": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Bat": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bat": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Brass Beast": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Brass Beast": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Bread Bite": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bread Bite": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Buff Banner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Buff Banner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Buffalo Steak Sandvich": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Buffalo Steak Sandvich": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Bushwacka": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Bushwacka": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The C.A.P.P.E.R": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable C.A.P.P.E.R": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Candy Cane": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Candy Cane": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Claidheamh Mòr": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Claidheamh Mòr": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Classic": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Classic": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Cleaner's Carbine": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Cleaner's Carbine": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Conniver's Kunai": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Conniver's Kunai": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Conscientious Objector": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Conscientious Objector": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Cow Mangler 5000": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Cow Mangler 5000": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Cozy Camper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Cozy Camper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Crit-a-Cola": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Crit-a-Cola": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Crossing Guard": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Crossing Guard": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Dalokohs Bar": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Dalokohs Bar": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Darwin's Danger Shield": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Darwin's Danger Shield": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Dead Ringer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Dead Ringer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Degreaser": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Degreaser": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Detonator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Detonator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Diamondback": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Diamondback": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Disciplinary Action": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Disciplinary Action": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Enforcer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Enforcer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Equalizer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Equalizer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Escape Plan": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Escape Plan": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Eureka Effect": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Eureka Effect": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Eviction Notice": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Eviction Notice": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Eyelander": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Eyelander": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Fan O'War": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Fan O'War": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Fire Axe": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Fire Axe": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Fishcake": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Fishcake": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Fists": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Fists": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Fists of Steel": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Fists of Steel": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Flame Thrower": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Flame Thrower": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Flare Gun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Flare Gun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Flying Guillotine": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Flying Guillotine": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Force-A-Nature": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Force-A-Nature": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Fortified Compound": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Fortified Compound": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Freedom Staff": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Freedom Staff": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Frontier Justice": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Frontier Justice": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Frying Pan": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Frying Pan": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Giger Counter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Giger Counter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Gloves of Running Urgently": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Gloves of Running Urgently": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Grenade Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Grenade Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Gunboats": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Gunboats": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Gunslinger": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Gunslinger": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Half-Zatoichi": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Half-Zatoichi": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Ham Shank": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Ham Shank": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Hitman's Heatmaker": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Hitman's Heatmaker": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Holiday Punch": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Holiday Punch": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Holy Mackerel": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Holy Mackerel": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Homewrecker": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Homewrecker": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Huntsman": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Huntsman": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Huo-Long Heater": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Huo-Long Heater": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Invis Watch": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Invis Watch": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Iron Fist": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Iron Fist": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Iron Bomber": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Iron Bomber": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Jag": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Jag": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Jarate": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Jarate": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Killing Gloves of Boxing": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Killing Gloves of Boxing": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Knife": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Knife": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Kukri": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Kukri": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The L'Etranger": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable L'Etranger": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Liberty Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Liberty Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Loch-n-Load": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Loch-n-Load": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Lollichop": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Lollichop": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Loose Cannon": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Loose Cannon": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Vintage Lugermorph": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Vintage Lugermorph": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Machina": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Machina": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Mad Milk": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Mad Milk": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Manmelter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Manmelter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Mantreads": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Mantreads": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Market Gardener": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Market Gardener": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Maul": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Maul": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Medi Gun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Medi Gun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Minigun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Minigun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Mutated Milk": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Mutated Milk": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Natascha": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Natascha": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Neon Annihilator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Neon Annihilator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Nessie's Nine Iron": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Nessie's Nine Iron": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Nostromo Napalmer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Nostromo Napalmer": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Original": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Original": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Overdose": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Overdose": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Pain Train": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Pain Train": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Panic Attack": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Panic Attack": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Persian Persuader": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Persian Persuader": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Phlogistinator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Phlogistinator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Pistol": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Pistol": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Pomson 6000": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Pomson 6000": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Postal Pummeler": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Postal Pummeler": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Powerjack": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Powerjack": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Pretty Boy's Pocket Pistol": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Pretty Boy's Pocket Pistol": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Quick-Fix": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Quick-Fix": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Quickiebomb Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Quickiebomb Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Quäckenbirdt": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Quäckenbirdt": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Rainblower": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Rainblower": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Razorback": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Razorback": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Rescue Ranger": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Rescue Ranger": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Reserve Shooter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Reserve Shooter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Revolver": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Revolver": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Righteous Bison": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Righteous Bison": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Genuine Robo-Sandvich": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Genuine Non-Craftable Robo-Sandvich": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Rocket Jumper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Rocket Jumper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Rocket Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Rocket Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "SMG": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable SMG": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Sandman": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sandman": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Sandvich": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sandvich": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Sapper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sapper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Scattergun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Scattergun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Scorch Shot": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Scorch Shot": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Scotsman's Skullcutter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Scotsman's Skullcutter": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Scottish Handshake": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Scottish Handshake": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Scottish Resistance": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Scottish Resistance": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Self-Aware Beauty Mark": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Self-Aware Beauty Mark": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Shahanshah": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Shahanshah": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Sharp Dresser": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sharp Dresser": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Sharpened Volcano Fragment": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sharpened Volcano Fragment": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Shooting Star": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Shooting Star": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Shortstop": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Shortstop": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Shotgun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Shotgun": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Shovel": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Shovel": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Sniper Rifle": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sniper Rifle": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Soda Popper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Soda Popper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Solemn Vow": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Solemn Vow": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The SouThern Hospitality": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable SouThern Hospitality": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Spy-cicle": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Spy-cicle": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Stickybomb Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Stickybomb Launcher": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Sun-on-a-Stick": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sun-on-a-Stick": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Sydney Sleeper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Sydney Sleeper": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Third Degree": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Third Degree": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Three-Rune Blade": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Three-Rune Blade": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Tide Turner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Tide Turner": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Tomislav": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Tomislav": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Tribalman's Shiv": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Tribalman's Shiv": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Ubersaw": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Ubersaw": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Ullapool Caber": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Ullapool Caber": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Unarmed Combat": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Unarmed Combat": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Vaccinator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Vaccinator": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Vita-Saw": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Vita-Saw": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Wanga Prick": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Wanga Prick": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Warrior's Spirit": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Warrior's Spirit": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Widowmaker": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Widowmaker": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Wrangler": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Wrangler": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Wrap Assassin": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Wrap Assassin": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Wrench": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Wrench": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "The Your Eternal Reward": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  },
+  "Non-Craftable Your Eternal Reward": {
+    "buy": 0.5,
+    "sell": 0.5,
+    "instock": 1,
+    "stocklimit": 100,
+    "Admin": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "package.json",
+  "version": "2.5.0",
+  "description": "1. Unpack the files to your Desktop or where ever you want it",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "^0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "mathjs": "^3.16.4",
+    "steam-totp": "^2.0.1",
+    "steam-tradeoffer-manager": "^2.9.0",
+    "steam-user": "^3.23.2",
+    "steamcommunity": "^3.32.3",
+    "steamid": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm Start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lonster_Monster/Steam-Trade-Node-Bot.git"
+  },
+  "author": "Lonster_Monster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lonster_Monster/Steam-Trade-Node-Bot/issues"
+  },
+  "homepage": "https://github.com/Lonster_Monster/Steam-Trade-Node-Bot#readme"
+}

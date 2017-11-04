@@ -1,0 +1,16 @@
+{
+":assist:":
+{
+"buy": 1,
+"sell":2,
+"instock": 0,
+"stocklimit": 100
+},
+":EmptyWaveGunItem:":
+{
+"buy": 1,
+"sell": 2,
+"instock": 0,
+"stocklimit": 100
+}
+}

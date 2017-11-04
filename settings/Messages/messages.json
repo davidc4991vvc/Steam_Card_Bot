@@ -1,0 +1,16 @@
+	{
+	"WELCOME": "Hi i am a bot",
+	"WELCOME2": "Please type !HELP to get Started",
+	"hi": "hello, I am the MarketWh bot.",
+	"help": "Current Commands are !Help, !Group, !Buy/Sell+Item Name",
+	
+	"BuyCards": "The Current Buy Price of Trading Cards is .22 Ref / 2 Scrap Each.",
+	"SellCards": "The Current Sell price of Trading Cards is .33 Ref / 3 Scrap Each.",
+	"BuyBackgrounds": "The Current Buy price of Backgrounds is .11 Ref / 1 Scrap Each.",
+	"SellBackgrounds": "The Current Sell price of Backgrounds is .22 Ref / 2 Scrap Each.",
+	"BuyEmoticons": "The Current Buy price of Backgrounds is .11 Ref / 1 Scrap Each.",
+	"SellEmoticons": "The Current Sell price of Backgrounds is .22 Ref / 2 Scrap Each.",
+	
+	"Creator": "Lonster_Monster, his profile is http://steamcommunity.com/id/Lonster_Monster.",
+	"Group" : "The Current Group for This bot is http://steamcommunity.com/groups/MarketWH/."
+	}

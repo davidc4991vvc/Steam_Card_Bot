@@ -1,0 +1,23 @@
+{	
+"username": "Bot Username Goes Here",
+"password": "Bot Password Goe Here",
+"sharedSecret": "Shared Secret Goes Here",
+"IdentitySecret": "Identity Secret Goes Here",
+"OwnerID": "Main id 64 Goes Here",
+"SteamName" : "Desired Steam Name Goes Here",
+"GroupLink": "Link to steam group here",
+"Comments": "Enable",
+"IssueTracking": "Enable",
+"Robopartbanking": "Disable",
+"Hatbanking": "Disable",
+"KeyBanking": "Disable",
+"Group" : "Market Warehouse",
+"chats": "True",
+"Enable_Dev_Stock_Manager" : "False",
+"Below is not Used Yet":0,
+"BackGrounds" : "True",
+"TradingCards": "True",
+"GroupID": "29657931",
+"Emoticons": "True"
+	
+}
